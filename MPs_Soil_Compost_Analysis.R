@@ -1,7 +1,3 @@
-# Process and analyze DATA collected for the paper : 
-# Sources of light density microplastic related to two agricultural practices: the use of compost and plastic mulch
-# PLEASE CHANGE THE WORKING DIRECTORY (WD) BEFORE RUNNING THE SCRIPT.
-# For any issue or question, please contact Nicolas Beriot at nicolas.beriot@wur.nl
 
 # Packages ####
   if(!require(readxl)){install.packages("readxl")}
